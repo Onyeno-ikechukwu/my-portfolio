@@ -1,4 +1,4 @@
-import { file  } from "../javascript-file/cart.js";
+import { file  } from "./cart.js";
 
 export let currentPage = 0;
 export let itemsPage = 3;
